@@ -1,3 +1,19 @@
 body {
-    background-color: #3f7c2a;
+    background-color: #d3d3d3;
+}
+#heading {
+    background-color: #58a0ff;
+    padding: 35px;
+    color: #ffff;
+}
+.content {
+    font-family: "Times New Roman", Times, serif;
+}
+a{
+    padding: 8px;
+}
+a:hover, a:active {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffff;
 }
