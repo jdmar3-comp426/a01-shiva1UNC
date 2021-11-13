@@ -3,17 +3,27 @@ body {
 }
 #heading {
     background-color: #58a0ff;
-    padding: 35px;
+    padding: 25px;
     color: #ffff;
+}
+ul.links {
+    padding-left: 0px;
+    text-align: center;
+}
+ul.links > li {
+    display:inline-block;
+    padding: 10px 20px;
+}
+ul.links > li > a {
+    color: deeppink;
+}
+ul > li:hover{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffff;
+    cursor: pointer;
 }
 .content {
     font-family: "Times New Roman", Times, serif;
 }
-a{
-    padding: 8px;
-}
-a:hover, a:active {
-    border-style: solid;
-    border-width: 2px;
-    border-color: #ffff;
-}
+
