@@ -6,20 +6,20 @@ body {
     padding: 15px;
     color: #ffff;
 }
-ul.links {
+ul.inline {
     padding-left: 0px;
     text-align: center;
 }
-ul.links > li {
+ul.inline > li {
     display:inline-block;
     padding: 5px 10px;
     margin: 0px 40px 0px 40px;
 }
-ul.links > li > a {
+ul.inline > li > a {
     color: FFFF;
     text-decoration: none;
 }
-ul.links > li:hover {
+ul.inline > li:hover {
     border-style: solid;
     border-width: 2px;
     border-color: #ffff;
@@ -31,9 +31,13 @@ li.current {
     border-color: #ffff;
 }
 .content {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Lucida Console", "Courier New", monospace';
 }
 .titles {
     font-family: 'Luminari', sans-serif;
+}
+#photo {
+    float: right;
+    padding: 30px;
 }
 
