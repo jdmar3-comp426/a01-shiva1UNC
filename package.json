@@ -1,0 +1,22 @@
+{
+  "name": "a01-shiva1unc",
+  "version": "1.0.0",
+  "description": "comp426 a01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-shiva1UNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-shiva1UNC/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-shiva1UNC#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
