@@ -50,3 +50,6 @@ li.current > a > h3 {
     margin-right: auto;
     padding: 20px;
 }
+body h3 {
+    color: #FFFFFF;
+}
