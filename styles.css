@@ -4,7 +4,7 @@ body {
 #heading {
     background-color: #58a0ff;
     padding: 15px;
-    color: #ffff;
+    color: #ffffff;
 }
 ul.inline {
     padding-left: 0px;
@@ -24,13 +24,13 @@ ul.inline > li > a {
 ul.inline > li:hover {
     border-style: solid;
     border-width: 2px;
-    border-color: #ffff;
+    border-color: #ffffff;
     cursor: pointer;
 }
 li.current {
     border-style: solid;
     border-width: 2px;
-    border-color: #ffff;
+    border-color: #ffffff;
 }
 .content {
     font-family: "Lucida Console", "Courier New", 'monospace';
@@ -39,7 +39,7 @@ li.current {
 .titles {
     font-family: 'Luminari', sans-serif;
 }
-#photo {
+.photo {
     float: right;
     padding: 30px;
 }
